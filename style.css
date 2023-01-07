@@ -227,7 +227,7 @@ nav ul {
 
 
 .sec-4 {
-    background-image: url('./images/watch.png'), url(./images/gradient1.png) , url(./images/gradient1.png);
+    background-image: url('./images/watch.png'), linear-gradient(90deg, #0165b8 0%, rgba(0, 95, 172, 0) 100%);
     background-size: cover;
     background-blend-mode: overlay;
     width: auto;
